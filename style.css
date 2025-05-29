@@ -1,0 +1,195 @@
+.post1{
+width: 1222px;
+height: 236px;
+left: 218px;
+top: 340px;
+background: linear-gradient(102.89deg, #FF0084 36.73%, #E036DE 63.27%);
+border-radius: 66px;
+display: flex;
+flex-direction: row-reverse;
+}
+
+
+
+
+.a3{
+
+position: absolute;
+width: 159px;
+height: 44px;
+left: 822px;
+top: 52px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+}
+
+
+
+
+
+
+
+
+.a2{
+position: absolute;
+width: 228px;
+height: 44px;
+left: 536px;
+top: 52px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+}
+
+
+
+.a1{
+display: flex;
+justify-content: center;
+color: #FFFFFF;
+
+position: absolute;
+width: 144px;
+height: 44px;
+left: 359px;
+top: 52px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+
+color: #FFFFFF;
+
+
+}
+
+
+
+.main_1{
+display: flex;
+justify-content: flex-start;
+flex-direction: row-reverse;
+}
+
+
+
+header{
+width: 100%;
+height: 127px;
+left: 0px;
+top: 0px;
+position: fixed;
+background: linear-gradient(90deg, #E036DE 0%, #CF7161 100%);
+}
+
+.pustota{
+width: 10%;
+}
+
+
+.t1{
+width: 793px;
+height: 95px;
+left: 650px;
+top: 399px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+color: #FFFFFF;
+}
+
+body{
+background-attachment: fixed;
+background-size:cover;
+width: 1501px;
+height: 1501px;
+left: -32px;
+top: 148px;
+background-image:url(1_1.png); 
+margin: 200px 0px 0px 0px;
+}
+
+
+
+.main_3{
+margin: 135px 0 0 0;
+}
+
+
+.t3{
+width: 856px;
+height: 238px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #FFFFFF;
+
+
+}
+
+
+.post3{
+width: 1208px;
+height: 251px;
+background: linear-gradient(282.37deg, #E036DE 36.95%, #FF0084 63.05%);
+border-radius: 46px;
+display: flex;
+}
+
+
+
+.post2{
+width: 1120px;
+height: 340px;
+background: linear-gradient(283.48deg, #E036DE 35.85%, #FF0084 62.48%);
+border-radius: 42px;
+display: flex;
+margin: 30px;
+
+}
+
+.t2{
+width: 716px;
+height: 276px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+color: #FFFFFF;
+}
+
+
+
+
+
+
+
+
+
+
+
+
